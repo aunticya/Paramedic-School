@@ -23,10 +23,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "2025-2026/Anatomy and Physiology/Endocrine Part 1 PPT.pdf"
+                "file": "2025-2026/PCT/Unit_2_part_6_burn_care.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Endocrine Part 1 PPT"
+              "title": "Unit_2_part_6_burn_care"
             }
           }
         ],
@@ -192,8 +192,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "a9e50512cab7ffc1",
+  "active": "04632f841af8a8af",
   "lastOpenFiles": [
+    "2025-2026/PCT/~~$Unit_2_part_2_burns.pdf",
     "2025-2026/Anatomy and Physiology/Endocrine Part 1 PPT.pdf",
     "Untitled.base",
     "2025-2026/Readings.md",
