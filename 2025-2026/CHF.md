@@ -5,7 +5,7 @@ This causes hydrostatic pressure to build up in the lung capillaries, overcoming
 Left Sided Heart failure doesn't result in peripheral edema. Only right sided does. Right doesn't lead to left, but left sided failure can lead to right sided.
 
 **Associated Issues**
-As the fluid moves into alveolar space, inflammation occurs (alveoli don't want that fluid). Lung tissue inflammation results in wheezing, a.k.a [[Cardiac Asthma]]. So wheezing precedes crackles.
+As the fluid moves into alveolar space, inflammation occurs (alveoli don't want that fluid). Lung tissue inflammation results in [[wheezing]], a.k.a [[Cardiac Asthma]]. So [[wheezing]] precedes [[crackles]].
 
 **Treatments:**
 [[Nitroglycerin]] is a vasodilator, dilating coronary arteries, reducing pressure, alleviating CHF.

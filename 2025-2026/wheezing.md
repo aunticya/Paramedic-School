@@ -1,0 +1,1 @@
+High pitched, coarse sound during breathing, coming from the lungs.

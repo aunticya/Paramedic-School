@@ -1,0 +1,1 @@
+Discontinuous, explosive lung sounds when breathing. Like Velcro ripping apart. 
