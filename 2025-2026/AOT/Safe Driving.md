@@ -30,7 +30,12 @@
 			- 8 out of 10 fatalities in rollovers are from ejection
 			- Paramedics and all passengers **must** wear seatbelts at all times **unless** providing patient care 
 	- Eye lead time
+		- Minimum of 15-20 seconds ahead
+			- in town = 1-1.5 blocks
+			- in highway = 400m/4 football fields
 	- moving eyes
+		- every 2 seconds
+		- check mirrors every 5-8 seconds
 	- being proactive
 	- being predictable
 	- using a space cushion
