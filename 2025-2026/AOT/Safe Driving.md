@@ -1,4 +1,4 @@
-- We're governed by highway traffic act
+	- We're governed by highway traffic act
 	- HTA 144 Red Light
 		- You may proceed without a green, but only when it is safe to do so. You **must** stop and observe. If accidents occur, it's always your fault.
 		- Requires you have sirens and lights on
@@ -11,6 +11,7 @@
 			- Ideally no more than 20-40km (not a hard rule)
 		- You're allowed to pass into oncoming traffic, but it's very dangerous
 
+- **With emergency lights on, you must go in left lane** (to allow civilians to pull right)**. If you need to turn right, go into middle lane near the turn, then turn right after checking mirrors.**
 
 - 1 in 20 drivers are involved in a collision annually
 - On average 100 driving decisions per km
@@ -37,5 +38,22 @@
 		- every 2 seconds
 		- check mirrors every 5-8 seconds
 	- being proactive
+		- SCC (use both emergencies and non emergencies)
+			- Scanning all around the ambulance
+		- Point of no return = if light turns yellow I'd have to keep going
+		- Cover break horn if you spot hazard up ahead
+		- reverse park if possible
 	- being predictable
+		- maintain 4-5 second distance in cities
+		- don't use cruise control if there's adverse conditions (raining can result in hydroplaning)
 	- using a space cushion
+		- **Total Stopping Distance** = Perception Distance + Reaction distance + Breaking Distance + Break Lag Distance (only for air break ambulances)
+			- Perception Distance = Distance between when you spot hazard and when you decide to take an action
+			- Reaction Distance = Distance between you deciding to break, and actually pressing the break (avg 0.75 secs)
+				- Hover break to reduce this by reducing movement time
+			- Break Lag Distance (only airbrake ambulances)
+				- Distance between applying breaks and them activating (approximate 0.5 secs)
+			- Breaking Distance = Distance between pressing break and how long it takes to stop
+		- Under 60kmph = 4 secs
+		- Over 60kmph = 5 secs
+		-  
