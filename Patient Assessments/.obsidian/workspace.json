@@ -1,78 +1,41 @@
 {
   "main": {
-    "id": "d5939ac4e786350c",
+    "id": "c6ad840fe6c5b5b7",
     "type": "split",
     "children": [
       {
-        "id": "8cbd43e149d377bb",
+        "id": "ae63d9a2d236088a",
         "type": "tabs",
         "children": [
           {
-            "id": "6bf022ab391d90c9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "80659ca9672c16f2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PCT/Week 1/Unit_1_part_2a_heart failure(1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Unit_1_part_2a_heart failure(1)"
-            }
-          },
-          {
-            "id": "c1dbc0b37075a060",
+            "id": "a599d208f3dd3f39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AOT/Safe Driving.md",
+                "file": "Primary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Safe Driving"
-            }
-          },
-          {
-            "id": "d5556c8398324d59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AOT/Safe Driving.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Safe Driving"
+              "title": "Primary"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c5c429b401bb091e",
+    "id": "4fece63c8d69b757",
     "type": "split",
     "children": [
       {
-        "id": "d24c5a1661b04a9e",
+        "id": "5559e86bd4d9d862",
         "type": "tabs",
         "children": [
           {
-            "id": "f6c04f1840ec5b4d",
+            "id": "f38ce0f9d734c700",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -85,7 +48,7 @@
             }
           },
           {
-            "id": "c724eb14fbd1aeab",
+            "id": "0ab508d10a6fc5ab",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -102,7 +65,7 @@
             }
           },
           {
-            "id": "25ddccd9707b061a",
+            "id": "d69637e492c0747e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -118,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "ea9bb6b9150f8e38",
+    "id": "0ca3a8ade9fc741e",
     "type": "split",
     "children": [
       {
-        "id": "93cd2978b1c177a0",
+        "id": "2e40c9877cc8d5ad",
         "type": "tabs",
         "children": [
           {
-            "id": "3e652161d2d3a92c",
+            "id": "150358b44bf8c8e2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readings.md",
+                "file": "Primary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Readings"
+              "title": "Backlinks for Primary"
             }
           },
           {
-            "id": "1c76d73ddd613907",
+            "id": "042c7dbe17031385",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readings.md",
+                "file": "Primary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Readings"
+              "title": "Outgoing links from Primary"
             }
           },
           {
-            "id": "9c02f34c2d722a63",
+            "id": "a93e576aca4ee413",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -174,7 +137,7 @@
             }
           },
           {
-            "id": "b1f847f8b54eb389",
+            "id": "88bed4b2bf4f197e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -188,18 +151,18 @@
             }
           },
           {
-            "id": "42a5dac95ca172c8",
+            "id": "396ee7a8c9895422",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readings.md",
+                "file": "Primary.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Readings"
+              "title": "Outline of Primary"
             }
           }
         ]
@@ -220,34 +183,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "d5556c8398324d59",
+  "active": "a599d208f3dd3f39",
   "lastOpenFiles": [
-    "AOT/Safe Driving.md",
-    "AOT/AOT.md",
-    "AOT/SALT Diagram.jpg",
-    "PCT/Week 2/Unit_2_part_1_integ_SDL_W22.pdf",
-    "PCT/Week 2/Unit_2_part_2_burns.pdf",
-    "PCT/Week 1/Unit_1_part_2_FocusedRespAssessment.pdf",
-    "PCT/Week 1/Unit_1_part_2a_heart failure(1).pdf",
-    "PCT/Week 1/Unit_1_part_1_respiratorysystemreview_SDL(1).pdf",
-    "PCT/Week 3/Unit_9_part_3_IPV_ALL.pdf",
-    "PCT/Week 4/Unit_14_Part_1_CDI_W21.pdf",
-    "PCT/Week 3/Unit_9_part_2_gerontology_care_W21.pdf",
-    "PCT/Week 3/Unit_9_part_1_gerontology.pdf",
-    "PCT/Week 3/Unit_4_part_1_oncology_SDL.pdf",
-    "CHF.md",
-    "PCT/PCT.md",
-    "A&P/A&P.md",
-    "CPAP.md",
-    "COPD.md",
-    "crackles.md",
-    "wheezing.md",
-    "SOB.md",
-    "Readings.md",
-    "Cardiac Asthma.md",
-    "Nitroglycerin.md",
-    "Standup.md",
-    "CRISIS/CRISIS.md",
-    "PATHO/PATHO.md"
+    "GCS.md",
+    "Primary.md",
+    "B.md",
+    "A.md",
+    "X.md"
   ]
 }

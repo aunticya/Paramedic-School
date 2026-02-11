@@ -1,0 +1,4 @@
+- Use **penlight** to look into mouth, checking for objects, puke, fluids, swelling, injures. If positive and AVP**U**:
+	- Roll them if possible, to make stuff fall out of mouth
+	- Use **suction**
+		- Suction at 500 for adults, 120 for kids, 80 for infants

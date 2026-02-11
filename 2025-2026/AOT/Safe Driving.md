@@ -1,4 +1,4 @@
-	- We're governed by highway traffic act
+- We're governed by highway traffic act
 	- HTA 144 Red Light
 		- You may proceed without a green, but only when it is safe to do so. You **must** stop and observe. If accidents occur, it's always your fault.
 		- Requires you have sirens and lights on
@@ -54,6 +54,52 @@
 			- Break Lag Distance (only airbrake ambulances)
 				- Distance between applying breaks and them activating (approximate 0.5 secs)
 			- Breaking Distance = Distance between pressing break and how long it takes to stop
+				- gravel/dirt roads increase this greatly
 		- Under 60kmph = 4 secs
 		- Over 60kmph = 5 secs
-		-  
+
+
+- Ambulances are less likely to hydroplane, but still possible
+	- Can hydroplane at speeds as low as 50kmh (30mph)
+	- Don't accelerate when hydroplaning
+	- roads more slippery in early minutes of rain
+	- use 3 points stance when getting in and out of vehicle
+
+- If a car is close use the fastest siren. Longer sirens are easier to hear further away.
+	- Canyon Effect is building deflecting and distorting sound
+
+- Emergency Maneuvers
+	- Vehicles with no ABS
+		- Threshold breaking = braking to maximum extent before wheels lock up and skid
+		- ABS vehicles allow you to slam brakes, as they prevent locking
+	- Pulling over
+		- During turns, look at the edge of the road 
+			- scan for humans, obstructions, hazards
+		- When moving to shoulder, keep driver side wheels on road
+		- Prioritize pulling over quickly, but try to find a spot where pavement and shoulder are level
+	- Front tire blowouts:
+		- Loud noise, shaking shuddering vehicle
+		- Maintain speed with gentle acceleration to keep vehicle straight
+		- underinflation can cause overheats and blowouts
+- Regulations
+	- Transport Canada sets vehicle safety standards
+		- Provinces and territories set EMS operational standards
+		- Regulatory agencies set minimum standards, services can often go above and beyond
+			- Standard based on Affordability, generic, and feasible
+		- Paramedics responsible for daily checks
+			- Ambulance certification every 12 months
+				- Site visit every 3 years
+- Most ambulance collisions occur on dry roads during the day at an intersection
+
+- F license renewed every 5 years
+
+- Ambulances are rarely/never exempt from prohibitions regarding passing railroad crossings or school busses with flashing lights
+
+- If you were on lights/sirens but your call was cancelled, careful not to drive straight into Tim's, as motorists will assume you abused sirens to get coffee
+
+- Police escorts aren't recommended
+	- Different braking distances, accelerations
+	- Motorists often miss the second car
+
+- At scene, position yourself in front of accident to provide maximum egress (you can exit in same lane, but if you're behind an accident, you have to merge lanes to leave)
+- 

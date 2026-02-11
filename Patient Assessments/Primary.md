@@ -1,0 +1,40 @@
+- **E**
+	- Time of day?
+	- Weather?
+	- Floor that patient is on?
+	- Access and egress for ambulance and stretcher?
+		- *!Will stretcher fit in elevator?*
+	- Hazards?
+	- Bystanders?
+	- *!Pets?*
+- **M**
+	- *!What went wrong?*
+- **C**
+	- *!How many patients?*
+- **A**
+	- *!Do I need firefighters, police, tactical, ACP, Orng?*
+- **P**
+	- Gloves and Goggles
+	- *!Mask?*
+
+
+- APPROACH ENTRY TOWARDS PATIENT
+- **Doorway Assessment**
+	- WOB looks normal?
+	- Normal, non-diaphoretic skin?
+	- Enter scene, are patient's eyes following me? **A**VPU
+	- "Hey, we're paramedics, we're here to help you out. My name is Auntic, this is my partner Egel."
+	- *!Wait for response, maybe name (James)* A**V**PU
+	- *!If no response, trap squeeze* AV**P**U
+	- *!If no response, call ACP* AVP**U**
+		- Finalize [[GCS]]
+- **XABCDE**
+	- [[X]]- Any massive hemorrhaging?
+	- [[A]]
+		- "Alright James, can you open your mouth for me? Alright, I'm gonna shine the light in your eyes real fast, take a look at your pupils"
+		- Check **Pupils** while here
+			- Are they 3mm, reactive, and equal?
+	- "Alright man, I'm going to check your pulse, can you give me your hand? Do you know where you are? What time is it?"
+		- Finalize [[GCS]]
+	- [[B]]
+	- 
