@@ -32,7 +32,7 @@ Week 3:
 	[[AOT]]:
 		Slides
 	[[PATHO]]:
-		Gould Ch 9
+		Gould Ch 16, 18 (diabetes only)
 	[[CRISIS]]:
 		bleh
 	[[A&P]]:
@@ -45,7 +45,7 @@ Week 4:
 	[[AOT]]:
 		Slides
 	[[PATHO]]:
-		Gould Ch 8
+		Gould Ch 16, 18 (diabetes only)
 	[[CRISIS]]:
 		bleh
 	[[A&P]]:
@@ -59,7 +59,7 @@ Week 5:
 	[[AOT]]:
 		Slides
 	[[PATHO]]:
-		Gould Ch 16, 18
+			Gould Ch 8
 	[[CRISIS]]:
 		bleh
 	[[A&P]]:
